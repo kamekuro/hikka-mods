@@ -10,8 +10,7 @@ __version__ = (1, 0, 0)
 # + non-commercial
 # + no-derivatives
 
-# You CANNOT edit this file without direct permission from the author.
-# You can redistribute this file without any changes.
+# You CANNOT edit, distribute or redistribute this file without direct permission from the author.
 
 # meta banner: https://mods.unneyon.ru/banners/warpigs.png
 # meta pic: https://static.unneyon.ru/get/warpigs_icon.png
