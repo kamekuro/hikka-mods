@@ -1,16 +1,27 @@
 __version__ = (1, 0, 2)
+#             █ █ ▀ █▄▀ ▄▀█ █▀█ ▀
+#             █▀█ █ █ █ █▀█ █▀▄ █
+#              © Copyright 2022
+#
+#          https://t.me/hikariatama
+#
+# 🔒 Licensed under the GNU AGPLv3
+# 🌐 https://www.gnu.org/licenses/agpl-3.0.html
+
 #          █  █ █▄ █ █▄ █ █▀▀ ▀▄▀ █▀█ █▄ █
 #          ▀▄▄▀ █ ▀█ █ ▀█ ██▄  █  █▄█ █ ▀█ ▄
 #                © Copyright 2025
 #            ✈ https://t.me/unneyon
-
+#
 # 🔒 Licensed under CC-BY-NC-ND 4.0 unless otherwise specified.
 # 🌐 https://creativecommons.org/licenses/by-nc-nd/4.0
 # + attribution
 # + non-commercial
 # + no-derivatives
-
+#
 # You CANNOT edit, distribute or redistribute this file without direct permission from the author.
+
+# ORIGINAL MODULE: https://raw.githubusercontent.com/hikariatama/ftg/master/tidal.py
 
 # meta banner: https://mods.unneyon.ru/banners/tidal.png
 # meta pic: https://static.unneyon.ru/get/tidal_icon.png
@@ -38,7 +49,8 @@ logger = logging.getLogger(__name__)
 
 @loader.tds
 class TidalMod(loader.Module):
-    """API wrapper over TIDAL Hi-Fi music streaming service"""
+    """API wrapper over TIDAL Hi-Fi music streaming service
+    Thanks @hikarimods for original module: t.me/hikarimods/764"""
 
     strings = {
         "name": "Tidal",
@@ -72,6 +84,10 @@ class TidalMod(loader.Module):
         "downloading_file": "\n\n<emoji document_id=5325617665874600234>🕔</emoji> <i>Загрузка аудио…</i>",
         "searching": "<emoji document_id=5309965701241379366>🔍</emoji> <b>Ищем…</b>",
         "auth_first": "<emoji document_id=5312526098750252863>❌</emoji> <b>Сначала нужно авторизоваться</b>",
+        "_cls_doc": (
+            """Модуль для музыкального сервиса TIDAL Hi-Fi
+            Спасибо @hikarimods за оригинальный модуль: t.me/hikarimods/764"""
+        )
     }
 
 
