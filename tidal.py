@@ -23,9 +23,9 @@ __version__ = (1, 0, 2)
 
 # ORIGINAL MODULE: https://raw.githubusercontent.com/hikariatama/ftg/master/tidal.py
 
-# meta banner: https://mods.unneyon.ru/banners/tidal.png
-# meta pic: https://static.unneyon.ru/mods/tidal_icon.png
-# meta developer: @unneyon_hmods
+# meta banner: https://raw.githubusercontent.com/kamekuro/hikka-mods/main/banners/tidal.png
+# meta pic: https://raw.githubusercontent.com/kamekuro/hikka-mods/main/icons/tidal.png
+# meta developer: @kamekuro_hmods
 # scope: hikka_only
 # scope: hikka_min 1.6.3
 # requires: git+https://github.com/tamland/python-tidal

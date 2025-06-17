@@ -12,9 +12,9 @@ __version__ = (1, 0, 0)
 
 # You CANNOT edit, distribute or redistribute this file without direct permission from the author.
 
-# meta banner: https://mods.unneyon.ru/banners/yamusic.png
-# meta pic: https://static.unneyon.ru/mods/yamusic_icon.png
-# meta developer: @unneyon_hmods
+# meta banner: https://raw.githubusercontent.com/kamekuro/hikka-mods/main/banners/yamusic.png
+# meta pic: https://raw.githubusercontent.com/kamekuro/hikka-mods/main/icons/yamusic.png
+# meta developer: @kamekuro_hmods
 # scope: hikka_only
 # scope: hikka_min 1.6.3
 # requires: aiohttp asyncio requests git+https://github.com/MarshalX/yandex-music-api

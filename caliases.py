@@ -12,9 +12,9 @@ __version__ = (1, 0, 0)
 
 # You CANNOT edit, distribute or redistribute this file without direct permission from the author.
 
-# meta banner: https://mods.unneyon.ru/banners/caliases.png
-# meta pic: https://static.unneyon.ru/mods/caliases_icon.png
-# meta developer: @unneyon_hmods
+# meta banner: https://raw.githubusercontent.com/kamekuro/hikka-mods/main/banners/caliases.png
+# meta pic: https://raw.githubusercontent.com/kamekuro/hikka-mods/main/icons/caliases.png
+# meta developer: @kamekuro_hmods
 # scope: hikka_only
 # scope: hikka_min 1.6.3
 

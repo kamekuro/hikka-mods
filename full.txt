@@ -4,4 +4,3 @@ privacy
 tidal
 warpigs
 yamusic
-yamusic_beta
