@@ -8,10 +8,10 @@ __version__ = (1, 0, 2)
 # 🔒 Licensed under the GNU AGPLv3
 # 🌐 https://www.gnu.org/licenses/agpl-3.0.html
 
-#          █  █ █▄ █ █▄ █ █▀▀ ▀▄▀ █▀█ █▄ █
-#          ▀▄▄▀ █ ▀█ █ ▀█ ██▄  █  █▄█ █ ▀█ ▄
+#          █▄▀ ▄▀█ █▀▄▀█ █▀▀ █▄▀ █  █ █▀█ █▀█
+#          █ █ █▀█ █ ▀ █ ██▄ █ █ ▀▄▄▀ █▀▄ █▄█ ▄
 #                © Copyright 2025
-#            ✈ https://t.me/unneyon
+#            ✈ https://t.me/kamekuro
 #
 # 🔒 Licensed under CC-BY-NC-ND 4.0 unless otherwise specified.
 # 🌐 https://creativecommons.org/licenses/by-nc-nd/4.0
